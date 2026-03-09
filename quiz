@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Quiz</title>
+</head>
+<body>
+
+<h2>Simple Quiz Form</h2>
+
+<form>
+
+<p>1. What is the capital of India?</p>
+<input type="radio" name="q1"> Chennai<br>
+<input type="radio" name="q1"> Mumbai<br>
+<input type="radio" name="q1"> New Delhi<br>
+<input type="radio" name="q1"> Kolkata<br>
+
+<p>2. Which language is used for web pages?</p>
+<input type="radio" name="q2"> HTML<br>
+<input type="radio" name="q2"> C<br>
+<input type="radio" name="q2"> Java<br>
+<input type="radio" name="q2"> Python<br>
+
+<p>3. 2 + 2 = ?</p>
+<input type="radio" name="q3"> 3<br>
+<input type="radio" name="q3"> 4<br>
+<input type="radio" name="q3"> 5<br>
+<input type="radio" name="q3"> 6<br>
+
+<p>4. Which is a programming language?</p>
+<input type="radio" name="q4"> HTML<br>
+<input type="radio" name="q4"> CSS<br>
+<input type="radio" name="q4"> Java<br>
+<input type="radio" name="q4"> HTTP<br>
+
+<p>5. Which device is used to input data?</p>
+<input type="radio" name="q5"> Monitor<br>
+<input type="radio" name="q5"> Keyboard<br>
+<input type="radio" name="q5"> Printer<br>
+<input type="radio" name="q5"> Speaker<br>
+
+<br>
+<input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>
